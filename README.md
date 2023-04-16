@@ -1,15 +1,31 @@
 # byteverse_lawyersUp
 
-## Walkthrough VideoLink 
-[Click Me]()
+## Walkthrough VideoLink of Our Project
+[Click Me](https://drive.google.com/file/d/13-b4Z5ljMhPSnrarBmcrt8R32zjTjjgA/view?usp=share_link)
 
 [Video + PPT Project Link](https://drive.google.com/drive/folders/1oEtcw38_S2V22j8Yu6IMKnaMgAV5FudN?usp=share_link)
 
 [Video Link](https://drive.google.com/file/d/13-b4Z5ljMhPSnrarBmcrt8R32zjTjjgA/view?usp=share_link)
 [PPT Link](https://drive.google.com/file/d/19UeOLKts-3EhiOLoGhM-K1iAXEBZYd3L/view?usp=share_link)
 
+### This is our unique idea to speed up the court processes. 
+Clients can now easily find suitable Lawyer for their hearing. While Lawyers can register themselves on our website with authentication. And make themselves available to world. Client can compare and choose their Lawyer based on **ratings, Lawyers experience, their area of expertise, their success rates etc**.
+They can schedule meetings in **inbuilt calendar** in site and consult with each other via the **chat feature** available in the site. 
+**Many more features are made available for the use of the user including invoices(payment recipts)** for easy accesibility for the users.
+
+Also we have kept in mind that a user authenticated as lawyer may need a professional lawyer in exceptional cases (for example a user currently having expertise in crimal activities may need to hire another lawyer having expertise in insurance related) so we have made the **very first page for the users to determine whether they are entering the site as a CLIENT or a LAWYER.** 
+
+Tech used: MERN STACK 
+
+
+
+
 
 ## How To Install
+
+![img node.js and npm symbol](https://www.servermania.com/kb/wp-content/uploads/2022/07/NodeJS-and-NPM.png)
+<br/>
+[Click on this for detailed process of setting up node.js and npm in your system](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac) <br/>
 Create React App
 Create React App
 This directory is a brief example of a Create React App site that can be deployed to Vercel with zero configuration.
